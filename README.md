@@ -109,8 +109,3 @@ Security engineer building agentic AI and automation inside enterprise and feder
 ![Security Operations Analyst](https://img.shields.io/badge/Microsoft-Security_Operations_Analyst_Associate-0078D4?style=flat-square)
 ![Cribl Admin](https://img.shields.io/badge/Cribl-Certified_Admin-EF4A5F?style=flat-square)
 ![Cribl User](https://img.shields.io/badge/Cribl-Certified_User-EF4A5F?style=flat-square)
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alfonce27&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfonce27&layout=compact&hide_border=true&theme=default" alt="Top languages" height="150">
