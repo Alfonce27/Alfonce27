@@ -1,10 +1,6 @@
-# Alfonce Mutuku
-
 **Agentic AI & Automation · AI/ML Security · Detection Engineering · Regulated Environments**
 
-Security engineer building agentic AI and automation inside enterprise and federal environments — AI SOC agents that handle Tier 1 triage, automated remediation workflows, and the data pipelines and detection logic underneath them.
-
-📍 Hyattsville, MD · 📫 [mutuku.alfonce27@gmail.com](mailto:mutuku.alfonce27@gmail.com)
+Security engineer building agentic AI and automation inside enterprise and federal environments AI SOC agents that handle SOC triage, automated remediation workflows, and the data pipelines and detection logic underneath them.
 
 ---
 
