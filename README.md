@@ -87,12 +87,12 @@ Security engineer building agentic AI and automation inside enterprise and feder
 
 | Project | What it does |
 |---|---|
-| [n8n-Agentic-AI-SOC](https://github.com/Alfonce27/n8n-Agentic-AI-SOC) | Agentic AI workflows for SOC operations built on n8n |
-| [SOC_Investigation_Toolkit](https://github.com/Alfonce27/SOC_Investigation_Toolkit) | Tooling for security incident investigation and triage |
-| [Fraud_Cyber_Defense_Operations](https://github.com/Alfonce27/Fraud_Cyber_Defense_Operations) | Fraud and scam detection operations content |
-| [Cribl_Data_Onboarding_Microsoft_Sentinel_SIEM](https://github.com/Alfonce27/Cribl_Data_Onboarding_Microsoft_Sentinel_SIEM) | Cribl pipelines routing telemetry into Microsoft Sentinel |
-| [Cribl_Data_Onboarding_Cato_Firewall_SIEM](https://github.com/Alfonce27/Cribl_Data_Onboarding_Cato_Firewall_SIEM) | Cato firewall log onboarding through Cribl |
-| [Azure_DevOps_Audit_Logs_Sentinel](https://github.com/Alfonce27/Azure_DevOps_Audit_Logs_Sentinel) | Azure DevOps audit log ingestion and detection in Sentinel |
+| [Fraud_Cyber_Defense_Operations](https://github.com/Alfonce27/Fraud_Cyber_Defense_Operations) | **AegisOS** — multi-tenant agentic AI platform for fraud, scam, and cyber-defense operations. Coordinates specialized agents across Detect → Investigate → Decide → Act → Learn with RAG, policy enforcement, and human approval. |
+| [n8n-Agentic-AI-SOC](https://github.com/Alfonce27/n8n-Agentic-AI-SOC) | AI SOC alert triage. UniFi IPS alerts flow through Logstash, Elasticsearch, and n8n to an AI agent that reads a living Confluence playbook and posts a verdict to Slack in under 60 seconds. |
+| [SOC_Investigation_Toolkit](https://github.com/Alfonce27/SOC_Investigation_Toolkit) | Python and Go tooling plus agent skills for SOC acquire → triage → hunt → hand-off workflows across Microsoft Sentinel, Defender XDR, Entra ID, and Purview, with CrowdStrike, AWS, and Slack sources. |
+| [Cribl_Data_Onboarding_Microsoft_Sentinel_SIEM](https://github.com/Alfonce27/Cribl_Data_Onboarding_Microsoft_Sentinel_SIEM) | Onboarding runbooks routing security telemetry through Cribl Stream into Microsoft Sentinel — source, event breaker, pipeline parsing and enrichment, route, destination. |
+| [Cribl_Data_Onboarding_Cato_Firewall_SIEM](https://github.com/Alfonce27/Cribl_Data_Onboarding_Cato_Firewall_SIEM) | Pulls Cato Networks firewall events from the eventsFeed GraphQL API into Microsoft Sentinel via a Cribl Stream REST Collector with marker-based pagination. |
+| [Azure_DevOps_Audit_Logs_Sentinel](https://github.com/Alfonce27/Azure_DevOps_Audit_Logs_Sentinel) | Secret-free Azure DevOps audit log ingestion into Microsoft Sentinel using a service principal, Logic App, data collection rule, and Key Vault — no interactive sign-in. |
 
 ---
 
